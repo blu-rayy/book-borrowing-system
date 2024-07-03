@@ -1,0 +1,11 @@
+Vieja,Yanni,YanniU#1,BSECE
+Yanni,Yannii,Yannii#1,BSCS
+Yanni,YANNI,YanniU#1,BSCS
+Angel,AngelL,AngelL#1,BSMMA
+david,Kristian,Kristian#1,BSCS
+Kristian,Kristian,Kristian@1,BSMMA
+Jan,Janel,Janelle#1,BSCE
+KRistian,KRISTIANNN,Kristian@@1,BSCS
+Kristian,Igon,Igonners#1,BSECE
+Igon,Igonners,Igonners!1,BSEE
+John,JohnEric,JohnEric#1,BSCE

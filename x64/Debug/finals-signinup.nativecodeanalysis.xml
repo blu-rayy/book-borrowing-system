@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'User::password' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>User::{ctor}</FUNCTION>
+    <DECORATED>??0User@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>User::password</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'User::username' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>User::{ctor}</FUNCTION>
+    <DECORATED>??0User@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>User::username</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'User::name' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>User::{ctor}</FUNCTION>
+    <DECORATED>??0User@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>User::name</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>208</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>signIN</FUNCTION>
+    <DECORATED>?signIN@@YAXXZ</DECORATED>
+    <FUNCLINE>153</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Book::bookID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Book::{ctor}</FUNCTION>
+    <DECORATED>??0Book@@QEAA@XZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Book::bookID</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Book::publicationYear' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Book::{ctor}</FUNCTION>
+    <DECORATED>??0Book@@QEAA@XZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Book::publicationYear</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Book::next' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Book::{ctor}</FUNCTION>
+    <DECORATED>??0Book@@QEAA@XZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Book::next</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>534</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>deleteBook</FUNCTION>
+    <DECORATED>?deleteBook@@YAXXZ</DECORATED>
+    <FUNCLINE>486</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>732</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>borrowBook</FUNCTION>
+    <DECORATED>?borrowBook@@YAXXZ</DECORATED>
+    <FUNCLINE>659</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\otaku\Documents\Visual Studio 2022\Codes\finals-signinup\</FILEPATH>
+      <FILENAME>finals-signinup.cpp</FILENAME>
+      <LINE>825</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>updateStatus</FUNCTION>
+    <DECORATED>?updateStatus@@YAXXZ</DECORATED>
+    <FUNCLINE>748</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
